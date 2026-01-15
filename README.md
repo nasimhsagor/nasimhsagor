@@ -1,73 +1,82 @@
-# React + TypeScript + Vite
+# 👋 Hi there, I'm Nasim Haidar Sagor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+💻 **Software Engineer | Full Stack Developer**  
+📍 Bangladesh  
 
-Currently, two official plugins are available:
+I am a highly motivated software engineer passionate about building robust backend systems and dynamic web applications. I enjoy solving complex problems through logical thinking and continuously learning new technologies to stay ahead in the software industry.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🛠️ Technical Toolkit
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🔹 Back-End
+- ASP.NET Core, ASP.NET MVC  
+- NestJS  
+- PHP (Laravel)  
+- Java, Python  
 
-## Expanding the ESLint configuration
+### 🔹 Front-End
+- ReactJS  
+- JavaScript, TypeScript  
+- HTML5, CSS3, Bootstrap  
+- Ajax  
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+### 🔹 Databases
+- MS SQL Server  
+- PostgreSQL  
+- PL/SQL  
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+### 🔹 Tools & Practices
+- Git, GitHub  
+- Entity Framework  
+- RDLC Reports  
+- SOLID Principles  
+- Object-Oriented Programming  
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+---
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## 💼 Professional Experience
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+### 🏢 **ASP.NET Developer** — *AkijBashir Group*  
+**Dec 2023 – Jan 2025**
+- Developed enterprise-level applications using C#, ASP.NET, and MS SQL Server  
+- Implemented dynamic front-end features using JavaScript & Ajax  
+- Designed and generated business reports using RDLC  
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+### 🏢 **Junior Programmer** — *Q-Soft Precise Assistance*  
+**Apr 2023 – Nov 2023**
+- Assisted in software design and development  
+- Maintained existing systems and resolved bugs  
+- Collaborated with senior developers to improve code quality  
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+---
+
+## 🎓 Education & Certifications
+
+🎓 **B.Sc. in Computer Science & Engineering** — AIUB (CGPA: 3.5)
+
+📜 Certifications:
+- Full Stack Development with MERN — Grameenphone Academy  
+- Deep Learning & NLP with Python — AI Quest  
+- Web Development — Creative IT Institute  
+
+---
+
+## 🌟 Fun Facts & Interests
+
+🌱 Advocate of **Sobujayon (Greenery)** & gardening enthusiast  
+🏆 Innovator — *Digital Bangladesh Mela 2023*  
+✈️ Love traveling & exploring new technologies  
+💬 Languages: Bangla, English, Hindi  
+
+---
+
+## 📫 Let's Connect
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/nasimhsagor  
+🌐 **Portfolio:** https://about.me/nasimhaidarsagor  
+📧 **Email:** nasimhaidarsagor@gmail.com  
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my projects and connect with me.*
